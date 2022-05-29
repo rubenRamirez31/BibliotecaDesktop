@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec41af9a-1091-4f6b-af4d-81bed3fc0dee": {
+      "ProjectGuid": "ec41af9a-1091-4f6b-af4d-81bed3fc0dee",
+      "DisplayName": "WebApiBilbioteca",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "5170f886-2fe9-4312-893a-728aea083d83": {
+      "ProjectGuid": "5170f886-2fe9-4312-893a-728aea083d83",
+      "DisplayName": "OperacionesDLL",
+      "ColorIndex": 1
+    },
+    "da08b76c-ebd3-47e9-80a3-dbb852102edd": {
+      "ProjectGuid": "da08b76c-ebd3-47e9-80a3-dbb852102edd",
+      "DisplayName": "BibliotecaWinForms",
+      "ColorIndex": 2
+    },
+    "93aaab9f-192e-4815-959b-ecae6d446b1c": {
+      "ProjectGuid": "93aaab9f-192e-4815-959b-ecae6d446b1c",
+      "DisplayName": "ControlesPersonalizados",
+      "ColorIndex": 3
+    },
+    "8d28c3bb-fbad-42f5-b13d-99ae0fe85644": {
+      "ProjectGuid": "8d28c3bb-fbad-42f5-b13d-99ae0fe85644",
+      "DisplayName": "CustomControls",
+      "ColorIndex": 4
+    },
+    "afd2284e-fa70-4766-8d60-33055a8c8976": {
+      "ProjectGuid": "afd2284e-fa70-4766-8d60-33055a8c8976",
+      "DisplayName": "CustomControls",
+      "ColorIndex": 5
+    },
+    "e54b5de5-26b0-495d-8fde-2c392527dceb": {
+      "ProjectGuid": "e54b5de5-26b0-495d-8fde-2c392527dceb",
+      "DisplayName": "ControlSolicitudes",
+      "ColorIndex": 6
+    },
+    "3a42f106-0a12-487e-bf62-e8a3f84177e7": {
+      "ProjectGuid": "3a42f106-0a12-487e-bf62-e8a3f84177e7",
+      "DisplayName": "ElementoSolicitud",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

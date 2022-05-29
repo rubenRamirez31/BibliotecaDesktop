@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiBilbioteca", "WebApiBilbioteca\WebApiBilbioteca.csproj", "{EC41AF9A-1091-4F6B-AF4D-81BED3FC0DEE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperacionesDLL", "OperacionesDLL\OperacionesDLL.csproj", "{5170F886-2FE9-4312-893A-728AEA083D83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaWinForms", "BibliotecaWinForms\BibliotecaWinForms.csproj", "{DA08B76C-EBD3-47E9-80A3-DBB852102EDD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomControls", "CustomControls\CustomControls.csproj", "{AFD2284E-FA70-4766-8D60-33055A8C8976}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementoSolicitud", "ElementoSolicitud\ElementoSolicitud.csproj", "{3A42F106-0A12-487E-BF62-E8A3F84177E7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controles Personalizados", "Controles Personalizados", "{983E4B4A-9A58-4EB5-90F9-495273FBE9B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clases Del Proyecto Principal", "Clases Del Proyecto Principal", "{442FCDB2-37C3-4ADD-BC6D-2FC95804E898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC41AF9A-1091-4F6B-AF4D-81BED3FC0DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC41AF9A-1091-4F6B-AF4D-81BED3FC0DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC41AF9A-1091-4F6B-AF4D-81BED3FC0DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC41AF9A-1091-4F6B-AF4D-81BED3FC0DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5170F886-2FE9-4312-893A-728AEA083D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5170F886-2FE9-4312-893A-728AEA083D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5170F886-2FE9-4312-893A-728AEA083D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5170F886-2FE9-4312-893A-728AEA083D83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA08B76C-EBD3-47E9-80A3-DBB852102EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA08B76C-EBD3-47E9-80A3-DBB852102EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA08B76C-EBD3-47E9-80A3-DBB852102EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA08B76C-EBD3-47E9-80A3-DBB852102EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFD2284E-FA70-4766-8D60-33055A8C8976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD2284E-FA70-4766-8D60-33055A8C8976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD2284E-FA70-4766-8D60-33055A8C8976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD2284E-FA70-4766-8D60-33055A8C8976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A42F106-0A12-487E-BF62-E8A3F84177E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A42F106-0A12-487E-BF62-E8A3F84177E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A42F106-0A12-487E-BF62-E8A3F84177E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A42F106-0A12-487E-BF62-E8A3F84177E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EC41AF9A-1091-4F6B-AF4D-81BED3FC0DEE} = {442FCDB2-37C3-4ADD-BC6D-2FC95804E898}
+		{5170F886-2FE9-4312-893A-728AEA083D83} = {442FCDB2-37C3-4ADD-BC6D-2FC95804E898}
+		{DA08B76C-EBD3-47E9-80A3-DBB852102EDD} = {442FCDB2-37C3-4ADD-BC6D-2FC95804E898}
+		{AFD2284E-FA70-4766-8D60-33055A8C8976} = {983E4B4A-9A58-4EB5-90F9-495273FBE9B8}
+		{3A42F106-0A12-487E-BF62-E8A3F84177E7} = {442FCDB2-37C3-4ADD-BC6D-2FC95804E898}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA672E78-D96A-4F65-B29D-A89C4A2B8019}
+	EndGlobalSection
+EndGlobal

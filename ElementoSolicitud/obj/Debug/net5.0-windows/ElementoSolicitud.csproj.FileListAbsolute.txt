@@ -1,0 +1,137 @@
+C:\Users\ruben\source\repos\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\ElementoSolicitud.deps.json
+C:\Users\ruben\source\repos\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\ElementoSolicitud.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\ref\ElementoSolicitud.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\ElementoSolicitud.pdb
+C:\Users\ruben\source\repos\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\OperacionesDLL.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\OperacionesDLL.pdb
+C:\Users\ruben\source\repos\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.AssemblyReference.cache
+C:\Users\ruben\source\repos\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.ControlSolicitudes.resources
+C:\Users\ruben\source\repos\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.GenerateResource.cache
+C:\Users\ruben\source\repos\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\source\repos\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.AssemblyInfoInputs.cache
+C:\Users\ruben\source\repos\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.AssemblyInfo.cs
+C:\Users\ruben\source\repos\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.CopyComplete
+C:\Users\ruben\source\repos\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ref\ElementoSolicitud.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.pdb
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\ElementoSolicitud.deps.json
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\ElementoSolicitud.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\ref\ElementoSolicitud.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\ElementoSolicitud.pdb
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\OperacionesDLL.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\OperacionesDLL.pdb
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.AssemblyReference.cache
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.Properties.Resources.resources
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.SolicitudesRemotas.resources
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.GenerateResource.cache
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.AssemblyInfoInputs.cache
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.AssemblyInfo.cs
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.CopyComplete
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ref\ElementoSolicitud.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.pdb
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.deps.json
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.json
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.dev.json
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.exe
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.deps.json
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.json
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.dev.json
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.exe
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\ElementoSolicitud.deps.json
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\ElementoSolicitud.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\ref\ElementoSolicitud.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\ElementoSolicitud.pdb
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\OperacionesDLL.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\OperacionesDLL.pdb
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.AssemblyReference.cache
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.Properties.Resources.resources
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.SolicitudesRemotas.resources
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.GenerateResource.cache
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.AssemblyInfoInputs.cache
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.AssemblyInfo.cs
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.CopyComplete
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ref\ElementoSolicitud.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.pdb
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.deps.json
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.json
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.dev.json
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.exe
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\ElementoSolicitud.deps.json
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\ElementoSolicitud.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\ElementoSolicitud.pdb
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\OperacionesDLL.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\OperacionesDLL.pdb
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.AssemblyReference.cache
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.Properties.Resources.resources
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.SolicitudesRemotas.resources
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.GenerateResource.cache
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.AssemblyInfoInputs.cache
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.AssemblyInfo.cs
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.CoreCompileInputs.cache
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.CopyComplete
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\refint\ElementoSolicitud.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.pdb
+C:\Users\A_106\Desktop\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ref\ElementoSolicitud.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.deps.json
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.json
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.dev.json
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.exe
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\ElementoSolicitud.deps.json
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\ElementoSolicitud.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\ref\ElementoSolicitud.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\ElementoSolicitud.pdb
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\OperacionesDLL.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\OperacionesDLL.pdb
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.AssemblyReference.cache
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.Properties.Resources.resources
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.SolicitudesRemotas.resources
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.GenerateResource.cache
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.AssemblyInfoInputs.cache
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.AssemblyInfo.cs
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.CopyComplete
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ref\ElementoSolicitud.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.pdb
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.deps.json
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.json
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.dev.json
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.exe
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\ElementoSolicitud.deps.json
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\ElementoSolicitud.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\ElementoSolicitud.pdb
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\OperacionesDLL.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\bin\Debug\net5.0-windows\OperacionesDLL.pdb
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.Properties.Resources.resources
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.SolicitudesRemotas.resources
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.GenerateResource.cache
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.csproj.CopyComplete
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\refint\ElementoSolicitud.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ElementoSolicitud.pdb
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\ElementoSolicitud\obj\Debug\net5.0-windows\ref\ElementoSolicitud.dll

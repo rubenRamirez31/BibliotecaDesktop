@@ -1,0 +1,222 @@
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.exe
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.deps.json
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.json
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.dev.json
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\ref\CustomControls.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\DnsClient.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Bson.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Driver.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Driver.Core.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\SharpCompress.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\linux\native\libsnappy64.so
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\linux\native\libzstd.so
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\osx\native\libsnappy64.dylib
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\osx\native\libzstd.dylib
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\libzstd.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\snappy32.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\snappy64.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\OperacionesDLL.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\OperacionesDLL.pdb
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.AssemblyReference.cache
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.Form1.resources
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.GenerateResource.cache
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.AssemblyInfoInputs.cache
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.AssemblyInfo.cs
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.CopyComplete
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\ref\CustomControls.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\ruben\source\repos\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.genruntimeconfig.cache
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.exe
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.deps.json
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.json
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.dev.json
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\ref\CustomControls.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\DnsClient.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Bson.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Driver.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Driver.Core.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\SharpCompress.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\linux\native\libsnappy64.so
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\linux\native\libzstd.so
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\osx\native\libsnappy64.dylib
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\osx\native\libzstd.dylib
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\libzstd.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\snappy32.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\snappy64.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\OperacionesDLL.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\OperacionesDLL.pdb
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.AssemblyReference.cache
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.Form1.resources
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.GenerateResource.cache
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.AssemblyInfoInputs.cache
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.AssemblyInfo.cs
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.CopyComplete
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\ref\CustomControls.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.genruntimeconfig.cache
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.exe
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.deps.json
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.json
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.dev.json
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\ref\CustomControls.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\DnsClient.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Bson.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Driver.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Driver.Core.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\SharpCompress.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\linux\native\libsnappy64.so
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\linux\native\libzstd.so
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\osx\native\libsnappy64.dylib
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\osx\native\libzstd.dylib
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\libzstd.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\snappy32.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\snappy64.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\OperacionesDLL.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\OperacionesDLL.pdb
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.AssemblyReference.cache
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.Form1.resources
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.GenerateResource.cache
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.AssemblyInfoInputs.cache
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.AssemblyInfo.cs
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.CopyComplete
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\ref\CustomControls.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.genruntimeconfig.cache
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.exe
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.deps.json
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.json
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.dev.json
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\DnsClient.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Bson.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Driver.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Driver.Core.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\SharpCompress.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\linux\native\libsnappy64.so
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\linux\native\libzstd.so
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\osx\native\libsnappy64.dylib
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\osx\native\libzstd.dylib
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\libzstd.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\snappy32.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\snappy64.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\OperacionesDLL.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\OperacionesDLL.pdb
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.AssemblyReference.cache
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.Form1.resources
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.GenerateResource.cache
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.AssemblyInfoInputs.cache
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.AssemblyInfo.cs
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.CoreCompileInputs.cache
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.CopyComplete
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\refint\CustomControls.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.genruntimeconfig.cache
+C:\Users\A_106\Desktop\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\ref\CustomControls.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.exe
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.deps.json
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.json
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.dev.json
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\ref\CustomControls.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\DnsClient.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Bson.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Driver.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Driver.Core.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\SharpCompress.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\linux\native\libsnappy64.so
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\linux\native\libzstd.so
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\osx\native\libsnappy64.dylib
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\osx\native\libzstd.dylib
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\libzstd.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\snappy32.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\snappy64.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\OperacionesDLL.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\OperacionesDLL.pdb
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.AssemblyReference.cache
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.Form1.resources
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.GenerateResource.cache
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.AssemblyInfoInputs.cache
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.AssemblyInfo.cs
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.CopyComplete
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\ref\CustomControls.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.genruntimeconfig.cache
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.exe
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.deps.json
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.json
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.dev.json
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\DnsClient.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Bson.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Driver.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Driver.Core.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\SharpCompress.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\linux\native\libsnappy64.so
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\linux\native\libzstd.so
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\osx\native\libsnappy64.dylib
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\osx\native\libzstd.dylib
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\libzstd.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\snappy32.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\snappy64.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\OperacionesDLL.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\bin\Debug\net5.0-windows\OperacionesDLL.pdb
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.Form1.resources
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.GenerateResource.cache
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.csproj.CopyComplete
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\refint\CustomControls.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\CustomControls.genruntimeconfig.cache
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\CustomControls\obj\Debug\net5.0-windows\ref\CustomControls.dll

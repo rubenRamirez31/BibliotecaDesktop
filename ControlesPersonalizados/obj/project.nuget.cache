@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "P6xLWAZy2Ghbom+IM6tDhY3AFErKHY6k48dhF25YrECP6A8OzgnZbASDZLk8eUTc945tY3WEbaBJvfa6rFXxvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ruben\\source\\repos\\ProyectoBiblioteca\\ControlesPersonalizados\\ControlesPersonalizados.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ruben\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
+    "C:\\Users\\ruben\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

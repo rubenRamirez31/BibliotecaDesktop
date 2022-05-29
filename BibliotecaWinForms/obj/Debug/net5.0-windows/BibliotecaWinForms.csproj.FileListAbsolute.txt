@@ -1,0 +1,308 @@
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.deps.json
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.json
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.dev.json
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.exe
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.exe
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.deps.json
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.runtimeconfig.json
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.runtimeconfig.dev.json
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\ref\BibliotecaWinForms.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.pdb
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\DnsClient.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Bson.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Driver.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Driver.Core.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\SharpCompress.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\linux\native\libsnappy64.so
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\linux\native\libzstd.so
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\osx\native\libsnappy64.dylib
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\osx\native\libzstd.dylib
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\libzstd.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\snappy32.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\snappy64.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\ElementoSolicitud.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\OperacionesDLL.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\ElementoSolicitud.pdb
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\OperacionesDLL.pdb
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.AssemblyReference.cache
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.Logon.resources
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.Menu.resources
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.Properties.Resources.resources
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.SolicitudesDePrestamo.resources
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.GenerateResource.cache
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.AssemblyInfoInputs.cache
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.AssemblyInfo.cs
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.CopyComplete
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\ref\BibliotecaWinForms.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.pdb
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.genruntimeconfig.cache
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.AgregarLibro.resources
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.PrestamoFisico.resources
+C:\Users\ruben\source\repos\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.DatosDeLibroS.resources
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.deps.json
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.json
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.dev.json
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.exe
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.exe
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.deps.json
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.runtimeconfig.json
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.runtimeconfig.dev.json
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\ref\BibliotecaWinForms.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.pdb
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\DnsClient.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Bson.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Driver.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Driver.Core.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\SharpCompress.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\linux\native\libsnappy64.so
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\linux\native\libzstd.so
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\osx\native\libsnappy64.dylib
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\osx\native\libzstd.dylib
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\libzstd.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\snappy32.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\snappy64.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\ElementoSolicitud.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\OperacionesDLL.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\ElementoSolicitud.pdb
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\OperacionesDLL.pdb
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.AssemblyReference.cache
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.AgregarLibro.resources
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.DatosDeLibroS.resources
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.Logon.resources
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.Menu.resources
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.PrestamoFisico.resources
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.Properties.Resources.resources
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.SolicitudesDePrestamo.resources
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.GenerateResource.cache
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.AssemblyInfoInputs.cache
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.AssemblyInfo.cs
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.CopyComplete
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\ref\BibliotecaWinForms.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.pdb
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.genruntimeconfig.cache
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.deps.json
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.json
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.dev.json
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.exe
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.exe
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.deps.json
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.runtimeconfig.json
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.runtimeconfig.dev.json
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\ref\BibliotecaWinForms.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.pdb
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\DnsClient.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Bson.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Driver.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Driver.Core.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\SharpCompress.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\linux\native\libsnappy64.so
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\linux\native\libzstd.so
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\osx\native\libsnappy64.dylib
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\osx\native\libzstd.dylib
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\libzstd.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\snappy32.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\snappy64.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\ElementoSolicitud.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\OperacionesDLL.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\ElementoSolicitud.pdb
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\OperacionesDLL.pdb
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.AssemblyReference.cache
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.AgregarLibro.resources
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.DatosDeLibroS.resources
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.Logon.resources
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.Menu.resources
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.PrestamoFisico.resources
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.Properties.Resources.resources
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.SolicitudesDePrestamo.resources
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.GenerateResource.cache
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.AssemblyInfoInputs.cache
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.AssemblyInfo.cs
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.CopyComplete
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\ref\BibliotecaWinForms.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.pdb
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.genruntimeconfig.cache
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.deps.json
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.json
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.dev.json
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.exe
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.exe
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.deps.json
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.runtimeconfig.json
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.runtimeconfig.dev.json
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.pdb
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\DnsClient.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Bson.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Driver.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Driver.Core.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\SharpCompress.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\linux\native\libsnappy64.so
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\linux\native\libzstd.so
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\osx\native\libsnappy64.dylib
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\osx\native\libzstd.dylib
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\libzstd.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\snappy32.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\snappy64.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\ElementoSolicitud.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\OperacionesDLL.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\ElementoSolicitud.pdb
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\OperacionesDLL.pdb
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.AssemblyReference.cache
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.AgregarLibro.resources
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.DatosDeLibroS.resources
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.Logon.resources
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.Menu.resources
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.PrestamoFisico.resources
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.Properties.Resources.resources
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.SolicitudesDePrestamo.resources
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.GenerateResource.cache
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.AssemblyInfoInputs.cache
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.AssemblyInfo.cs
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.CoreCompileInputs.cache
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.CopyComplete
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\refint\BibliotecaWinForms.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.pdb
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.genruntimeconfig.cache
+C:\Users\A_106\Desktop\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\ref\BibliotecaWinForms.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.deps.json
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.json
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.dev.json
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.exe
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.exe
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.deps.json
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.runtimeconfig.json
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.runtimeconfig.dev.json
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\ref\BibliotecaWinForms.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.pdb
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\DnsClient.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Bson.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Driver.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Driver.Core.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\SharpCompress.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\linux\native\libsnappy64.so
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\linux\native\libzstd.so
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\osx\native\libsnappy64.dylib
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\osx\native\libzstd.dylib
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\libzstd.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\snappy32.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\snappy64.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\ElementoSolicitud.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\OperacionesDLL.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\ElementoSolicitud.pdb
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\OperacionesDLL.pdb
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.AssemblyReference.cache
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.AgregarLibro.resources
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.DatosDeLibroS.resources
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.Logon.resources
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.Menu.resources
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.PrestamoFisico.resources
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.Properties.Resources.resources
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.SolicitudesDePrestamo.resources
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.GenerateResource.cache
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.AssemblyInfoInputs.cache
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.AssemblyInfo.cs
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.CopyComplete
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\ref\BibliotecaWinForms.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.pdb
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.genruntimeconfig.cache
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.Envios.resources
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.deps.json
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.json
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.runtimeconfig.dev.json
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.exe
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.exe
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.deps.json
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.runtimeconfig.json
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.runtimeconfig.dev.json
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\BibliotecaWinForms.pdb
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\DnsClient.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Bson.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Driver.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Driver.Core.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\SharpCompress.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\linux\native\libsnappy64.so
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\linux\native\libzstd.so
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\osx\native\libsnappy64.dylib
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\osx\native\libzstd.dylib
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\libzstd.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\snappy32.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\snappy64.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\ElementoSolicitud.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\OperacionesDLL.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CustomControls.pdb
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\ElementoSolicitud.pdb
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\OperacionesDLL.pdb
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.AgregarLibro.resources
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.DatosDeLibroS.resources
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.Envios.resources
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.Logon.resources
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.Menu.resources
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.PrestamoFisico.resources
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.Properties.Resources.resources
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.SolicitudesDePrestamo.resources
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.GenerateResource.cache
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.csproj.CopyComplete
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\refint\BibliotecaWinForms.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.pdb
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.genruntimeconfig.cache
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\ref\BibliotecaWinForms.dll

@@ -1,0 +1,24 @@
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\bin\Release\net5.0\OperacionesDLL.deps.json
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\bin\Release\net5.0\OperacionesDLL.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\bin\Release\net5.0\ref\OperacionesDLL.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\bin\Release\net5.0\OperacionesDLL.pdb
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\obj\Release\net5.0\OperacionesDLL.csproj.AssemblyReference.cache
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\obj\Release\net5.0\OperacionesDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\obj\Release\net5.0\OperacionesDLL.AssemblyInfoInputs.cache
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\obj\Release\net5.0\OperacionesDLL.AssemblyInfo.cs
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\obj\Release\net5.0\OperacionesDLL.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\obj\Release\net5.0\OperacionesDLL.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\obj\Release\net5.0\ref\OperacionesDLL.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\obj\Release\net5.0\OperacionesDLL.pdb
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\bin\Release\net5.0\OperacionesDLL.deps.json
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\bin\Release\net5.0\OperacionesDLL.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\bin\Release\net5.0\OperacionesDLL.pdb
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\obj\Release\net5.0\OperacionesDLL.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\obj\Release\net5.0\OperacionesDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\obj\Release\net5.0\OperacionesDLL.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\obj\Release\net5.0\OperacionesDLL.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\obj\Release\net5.0\OperacionesDLL.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\obj\Release\net5.0\OperacionesDLL.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\obj\Release\net5.0\refint\OperacionesDLL.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\obj\Release\net5.0\OperacionesDLL.pdb
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\obj\Release\net5.0\ref\OperacionesDLL.dll

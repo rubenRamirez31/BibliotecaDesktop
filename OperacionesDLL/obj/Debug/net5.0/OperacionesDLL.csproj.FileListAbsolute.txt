@@ -1,0 +1,72 @@
+C:\Users\ruben\source\repos\ProyectoBiblioteca\OperacionesDLL\bin\Debug\net5.0\OperacionesDLL.deps.json
+C:\Users\ruben\source\repos\ProyectoBiblioteca\OperacionesDLL\bin\Debug\net5.0\OperacionesDLL.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\OperacionesDLL\bin\Debug\net5.0\ref\OperacionesDLL.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\OperacionesDLL\bin\Debug\net5.0\OperacionesDLL.pdb
+C:\Users\ruben\source\repos\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\source\repos\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.AssemblyInfoInputs.cache
+C:\Users\ruben\source\repos\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.AssemblyInfo.cs
+C:\Users\ruben\source\repos\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\ref\OperacionesDLL.dll
+C:\Users\ruben\source\repos\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.pdb
+C:\Users\ruben\source\repos\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.csproj.AssemblyReference.cache
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\OperacionesDLL\bin\Debug\net5.0\OperacionesDLL.deps.json
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\OperacionesDLL\bin\Debug\net5.0\OperacionesDLL.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\OperacionesDLL\bin\Debug\net5.0\ref\OperacionesDLL.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\OperacionesDLL\bin\Debug\net5.0\OperacionesDLL.pdb
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.AssemblyInfoInputs.cache
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.AssemblyInfo.cs
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\ref\OperacionesDLL.dll
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.pdb
+C:\Users\ruben\Documents\09_05\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.csproj.AssemblyReference.cache
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\OperacionesDLL\bin\Debug\net5.0\OperacionesDLL.deps.json
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\OperacionesDLL\bin\Debug\net5.0\OperacionesDLL.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\OperacionesDLL\bin\Debug\net5.0\ref\OperacionesDLL.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\OperacionesDLL\bin\Debug\net5.0\OperacionesDLL.pdb
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.csproj.AssemblyReference.cache
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.AssemblyInfoInputs.cache
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.AssemblyInfo.cs
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\ref\OperacionesDLL.dll
+C:\Users\ruben\Desktop\Proyecto Biblioteca\Version 12 de mayo\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.pdb
+C:\Users\A_106\Desktop\ProyectoBiblioteca\OperacionesDLL\bin\Debug\net5.0\OperacionesDLL.deps.json
+C:\Users\A_106\Desktop\ProyectoBiblioteca\OperacionesDLL\bin\Debug\net5.0\OperacionesDLL.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\OperacionesDLL\bin\Debug\net5.0\OperacionesDLL.pdb
+C:\Users\A_106\Desktop\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.csproj.AssemblyReference.cache
+C:\Users\A_106\Desktop\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A_106\Desktop\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.AssemblyInfoInputs.cache
+C:\Users\A_106\Desktop\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.AssemblyInfo.cs
+C:\Users\A_106\Desktop\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.csproj.CoreCompileInputs.cache
+C:\Users\A_106\Desktop\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\refint\OperacionesDLL.dll
+C:\Users\A_106\Desktop\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.pdb
+C:\Users\A_106\Desktop\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\ref\OperacionesDLL.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\bin\Debug\net5.0\OperacionesDLL.deps.json
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\bin\Debug\net5.0\OperacionesDLL.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\bin\Debug\net5.0\ref\OperacionesDLL.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\bin\Debug\net5.0\OperacionesDLL.pdb
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.csproj.AssemblyReference.cache
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.AssemblyInfoInputs.cache
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.AssemblyInfo.cs
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\ref\OperacionesDLL.dll
+C:\Users\ruben\Desktop\version 25 de mayo\Tarde\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.pdb
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\bin\Debug\net5.0\OperacionesDLL.deps.json
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\bin\Debug\net5.0\OperacionesDLL.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\bin\Debug\net5.0\OperacionesDLL.pdb
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\refint\OperacionesDLL.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\OperacionesDLL.pdb
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\OperacionesDLL\obj\Debug\net5.0\ref\OperacionesDLL.dll
