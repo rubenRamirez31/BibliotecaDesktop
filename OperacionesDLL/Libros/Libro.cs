@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace OperacionesDLL
 {
+    //encapsulamos a la clase libro
     public class Libro
     {
         [BsonId]

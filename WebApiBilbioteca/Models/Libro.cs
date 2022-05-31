@@ -3,6 +3,8 @@ using MongoDB.Bson.Serialization.Attributes;
 
 namespace WebApiBilbioteca.Models
 {
+    //encapsulamos la clase libro para que pueda trabajar
+    //con la web api.
     public class Libro
     {
         [BsonId]

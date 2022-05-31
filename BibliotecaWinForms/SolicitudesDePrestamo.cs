@@ -23,6 +23,7 @@ namespace BibliotecaWinForms
             ObtenerDatos();
         }
 
+        /// se llena el flow layout panel por cada elemento en el registro
         public void ObtenerDatos()
         {
             foreach (var item in sp.ObtenerDatos())
@@ -46,6 +47,14 @@ namespace BibliotecaWinForms
             PrestamoFisico pp = new PrestamoFisico();
             pp.StartPosition = FormStartPosition.CenterScreen;
             pp.Show();
+            this.Hide();
+        }
+
+        private void pbEnvios_Click(object sender, EventArgs e)
+        {
+            Envios env = new Envios();
+            env.StartPosition = FormStartPosition.CenterScreen;
+            env.Show();
             this.Hide();
         }
     }

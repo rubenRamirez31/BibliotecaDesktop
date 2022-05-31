@@ -19,6 +19,7 @@ namespace BibliotecaWinForms
         {
             InitializeComponent();
             t = new TransaccionesLogin();
+
             tbCaracteres.Checked = false;
 
             if (tbCaracteres.Checked == false)
@@ -29,6 +30,9 @@ namespace BibliotecaWinForms
             this.StartPosition = FormStartPosition.CenterScreen;
 
         }
+        //llamamos al metoo validar login, que basicamente compara
+        //los datos que se ingresan con los que tenemos en la base de datos
+        //enviandole los parametros usuario y contraseña para que funcione
         private void btnIngresar_Click(object sender, EventArgs e)
         {
             bool sesion = t.ValidarLogin(txtUsuario.Text, txtPassword.Text);
@@ -57,7 +61,7 @@ namespace BibliotecaWinForms
         {
             Application.Exit();
         }
-
+        //Activa o desactiva que se muestre o no la contraseña 
         private void tbCaracteres_CheckedChanged(object sender, EventArgs e)
         {
             if (tbCaracteres.Checked == false)

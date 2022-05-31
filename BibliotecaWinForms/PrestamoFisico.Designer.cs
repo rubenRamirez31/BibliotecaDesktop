@@ -36,6 +36,7 @@
             this.pbMenu = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.btnRegistrarPres = new CustomControls.RJControls.RJButton();
             this.txtNumero = new System.Windows.Forms.TextBox();
             this.label13 = new System.Windows.Forms.Label();
             this.txtColonia = new System.Windows.Forms.TextBox();
@@ -62,7 +63,6 @@
             this.label8 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
-            this.btnRegistrarPres = new CustomControls.RJControls.RJButton();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pbPrestamoPrecencial)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbEnvios)).BeginInit();
@@ -102,6 +102,7 @@
             this.pbEnvios.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pbEnvios.TabIndex = 2;
             this.pbEnvios.TabStop = false;
+            this.pbEnvios.Click += new System.EventHandler(this.pbEnvios_Click);
             // 
             // pbSolicitudes
             // 
@@ -156,6 +157,26 @@
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(760, 272);
             this.panel2.TabIndex = 7;
+            // 
+            // btnRegistrarPres
+            // 
+            this.btnRegistrarPres.BackColor = System.Drawing.Color.LightGray;
+            this.btnRegistrarPres.BackgroundColor = System.Drawing.Color.LightGray;
+            this.btnRegistrarPres.BorderColor = System.Drawing.Color.LightGray;
+            this.btnRegistrarPres.BorderRadius = 20;
+            this.btnRegistrarPres.BorderSize = 0;
+            this.btnRegistrarPres.FlatAppearance.BorderSize = 0;
+            this.btnRegistrarPres.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnRegistrarPres.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.btnRegistrarPres.ForeColor = System.Drawing.Color.Black;
+            this.btnRegistrarPres.Location = new System.Drawing.Point(605, 219);
+            this.btnRegistrarPres.Name = "btnRegistrarPres";
+            this.btnRegistrarPres.Size = new System.Drawing.Size(150, 41);
+            this.btnRegistrarPres.TabIndex = 10;
+            this.btnRegistrarPres.Text = "REGISTRAR";
+            this.btnRegistrarPres.TextColor = System.Drawing.Color.Black;
+            this.btnRegistrarPres.UseVisualStyleBackColor = false;
+            this.btnRegistrarPres.Click += new System.EventHandler(this.btnRegistrarPres_Click);
             // 
             // txtNumero
             // 
@@ -441,26 +462,6 @@
             this.label7.Size = new System.Drawing.Size(221, 27);
             this.label7.TabIndex = 1;
             this.label7.Text = "DATOS DEL LIBRO";
-            // 
-            // btnRegistrarPres
-            // 
-            this.btnRegistrarPres.BackColor = System.Drawing.Color.LightGray;
-            this.btnRegistrarPres.BackgroundColor = System.Drawing.Color.LightGray;
-            this.btnRegistrarPres.BorderColor = System.Drawing.Color.LightGray;
-            this.btnRegistrarPres.BorderRadius = 20;
-            this.btnRegistrarPres.BorderSize = 0;
-            this.btnRegistrarPres.FlatAppearance.BorderSize = 0;
-            this.btnRegistrarPres.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnRegistrarPres.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.btnRegistrarPres.ForeColor = System.Drawing.Color.Black;
-            this.btnRegistrarPres.Location = new System.Drawing.Point(605, 219);
-            this.btnRegistrarPres.Name = "btnRegistrarPres";
-            this.btnRegistrarPres.Size = new System.Drawing.Size(150, 41);
-            this.btnRegistrarPres.TabIndex = 10;
-            this.btnRegistrarPres.Text = "REGISTRAR";
-            this.btnRegistrarPres.TextColor = System.Drawing.Color.Black;
-            this.btnRegistrarPres.UseVisualStyleBackColor = false;
-            this.btnRegistrarPres.Click += new System.EventHandler(this.btnRegistrarPres_Click);
             // 
             // PrestamoFisico
             // 

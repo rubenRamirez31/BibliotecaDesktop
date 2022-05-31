@@ -23,5 +23,8 @@ namespace OperacionesDLL
 
         [BsonElement("direccion")]
         public string Direccion { get; set; }
+
+        [BsonElement("estatus")]
+        public string Estatus { get; set; }
     }
 }

@@ -27,6 +27,8 @@ namespace BibliotecaWinForms
             ConsultarLibros();
 
         }
+        //llamamos al metodo obtener libros para poder cargarlos en el 
+        //datagridview
         private void ConsultarLibros()
         {
             dataGridView1.DataSource = tl.ObtenerLibros();
@@ -41,10 +43,11 @@ namespace BibliotecaWinForms
 
         private void btnAgregarDatos_Click(object sender, EventArgs e)
         {
-
+            //instanciamos el form anterior para poder 
+            //pasarle los datos al form antrtior
             PrestamoFisico pf = new PrestamoFisico();
 
-
+            //obtenemos los datos del datagridview
             id = dataGridView1[0, dataGridView1.CurrentCell.RowIndex].Value.ToString();
             Libro ltemp = tl.ObtenerLibroId(id);
             disp = ltemp.Disponible;

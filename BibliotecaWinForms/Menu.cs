@@ -19,15 +19,21 @@ namespace BibliotecaWinForms
         public Menu()
         {
             InitializeComponent();
+            //Inicializamos la clase transacciones del libro
             tl = new TransaccionesLibro();
             id = string.Empty;
+            //Cuando inicie llamara a este metodo
             ConsultarLibros();
         }
      
+        //Se llena el datagridview con los datos del metodo
+        //obtener libros
         private void ConsultarLibros()
         {
             dataGridView1.DataSource = tl.ObtenerLibros();
         }
+
+        //los eventoos de picture box, son para cambiar entre formularios
         private void pictureBox1_Click(object sender, EventArgs e)
         {
             Logon login = new Logon();
@@ -51,7 +57,7 @@ namespace BibliotecaWinForms
             agl.Show();
             this.Hide();
         }
-
+        //este evento se usa para poder obtener el id y la url de la imagen
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             id = dataGridView1[0, dataGridView1.CurrentCell.RowIndex].Value.ToString();
@@ -59,7 +65,7 @@ namespace BibliotecaWinForms
             Libro ltemp = tl.ObtenerLibroId(id);
             pictureBox2.ImageLocation = url;
         }
-
+        //elimina algun registro con el id anteriormente seleccionado
         private void btnEliminar_Click(object sender, EventArgs e)
         {
             if (id == String.Empty)
@@ -69,6 +75,7 @@ namespace BibliotecaWinForms
             }
             else
             {
+                //le pasamos el id al metodo eliminar
                 tl.EliminarLibro(id);
                 MessageBox.Show("Eliminado Correctamente",
                     "ok", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -88,6 +95,7 @@ namespace BibliotecaWinForms
         private void pbEnvios_Click(object sender, EventArgs e)
         {
             Envios en = new Envios();
+            en.StartPosition = FormStartPosition.CenterScreen;
             en.Show();
             this.Hide();
         }

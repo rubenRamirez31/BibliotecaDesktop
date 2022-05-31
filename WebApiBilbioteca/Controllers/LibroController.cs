@@ -5,10 +5,13 @@ using WebApiBilbioteca.Models;
 
 namespace WebApiBilbioteca.Controllers
 {
+    //le asignamos un nombre a la ruta
     [Route("api/Libros")]
     [ApiController]
     public class LibroController : ControllerBase
     {
+        //le asignamos el tipo de metodo con el que trabajara,
+        //seguido de su nombre
         [HttpGet("ObtenerLibros")]
         public List<Libro> ObtenerLibros()
         {
@@ -22,7 +25,7 @@ namespace WebApiBilbioteca.Controllers
 
         }
 
-
+        //obtenemos el libro por id
         [HttpGet("ObtenerProductoXId/{id}")]
         public Libro ObtenerLibroPorId(string id)
         {
@@ -34,6 +37,8 @@ namespace WebApiBilbioteca.Controllers
             return libros.Find(l => l.Id == id).FirstOrDefault();
         }
 
+        //actualizamos el libro, mandando
+        //como cuerpo todos los datos del mismo.
         [HttpPut("ActualizarLibro")]
         public Libro ActualizarProducto([FromBody] Libro l)
         {
@@ -44,7 +49,8 @@ namespace WebApiBilbioteca.Controllers
             libros.ReplaceOne(ant => ant.Id == l.Id, l);
             return l;
         }
-
+        //hacemos un post de igual manera insertando 
+        //el cuerpo de la solicitud
         [HttpPost("InsertarLibro")]
         public Libro InsertarProducto([FromBody] Libro p)
         {
@@ -55,6 +61,9 @@ namespace WebApiBilbioteca.Controllers
             libros.InsertOne(p);
             return p;
         }
+
+        //este es para insertar la solicitud la base de datos
+        //de solicitudes de prestamo
 
         [HttpPost("InsertarSolicitud")]
         public SolicitudRemota InsertarRegistroRemoto([FromBody] SolicitudRemota sr)
@@ -67,6 +76,8 @@ namespace WebApiBilbioteca.Controllers
             return sr;
         }
 
+        //en este tambien tenemos que enviar el cuerpo para validar el login
+        //y compare los datos
         [HttpPost("Login")]
         public Respuesta IniciarSesion([FromBody]CredencialUsuario u)
         {
@@ -79,18 +90,21 @@ namespace WebApiBilbioteca.Controllers
             Respuesta r = new Respuesta();
             if (userTemp != null) 
             {
+                //de ser valido retornamos un estatus 200
                 r.Estatus = 200;
                 r.Mensaje = "Usuario Valido";
             }
             else
             {
+                // y de no ser valido regresa un 500 
                 r.Estatus = 500;
                 r.Mensaje = "Usuario y/o Password incorrecto";
             }
             return r;
         }
 
-
+        //mandamos el cuerpo de la solicitud con los datos del
+        // de la persona que se esta resgistrando
         [HttpPost("Registro")]
         public Respuesta Registrar([FromBody] CredencialUsuario u)
         {

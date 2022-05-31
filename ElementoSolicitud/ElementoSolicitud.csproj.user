@@ -4,5 +4,8 @@
     <Compile Update="SolicitudesRemotas.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="UserControleEnvio.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

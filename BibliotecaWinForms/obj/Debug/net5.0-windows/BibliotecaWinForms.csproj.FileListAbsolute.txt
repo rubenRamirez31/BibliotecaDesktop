@@ -306,3 +306,9 @@ C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debu
 C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.pdb
 C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\BibliotecaWinForms.genruntimeconfig.cache
 C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\obj\Debug\net5.0-windows\ref\BibliotecaWinForms.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\CloudinaryDotNet.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ruben\OneDrive\Documents\ProyectoBiblioteca\BibliotecaWinForms\bin\Debug\net5.0-windows\Newtonsoft.Json.dll

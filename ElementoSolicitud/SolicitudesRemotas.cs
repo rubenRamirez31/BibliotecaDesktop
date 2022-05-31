@@ -28,6 +28,7 @@ namespace ElementoSolicitud
                     Nombre = lblNombre.Text,
                     Libro = lblLibro.Text,
                     Direccion = lblDireccion.Text,
+                    Estatus = "PROCESADO",
 
                 };
                 bool registro = ts.AceptarSolicitud(sa);

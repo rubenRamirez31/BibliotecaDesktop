@@ -53,6 +53,12 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.18.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

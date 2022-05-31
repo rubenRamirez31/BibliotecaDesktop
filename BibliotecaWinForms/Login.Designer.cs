@@ -43,7 +43,7 @@ namespace BibliotecaWinForms
             // pictureBox1
             // 
             this.pictureBox1.Image = global::BibliotecaWinForms.Properties.Resources.IMG_20220505_WA0028;
-            this.pictureBox1.Location = new System.Drawing.Point(89, 12);
+            this.pictureBox1.Location = new System.Drawing.Point(72, 12);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(187, 190);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -131,7 +131,7 @@ namespace BibliotecaWinForms
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(338, 352);
             this.Controls.Add(this.btnIngresar);
             this.Controls.Add(this.tbCaracteres);

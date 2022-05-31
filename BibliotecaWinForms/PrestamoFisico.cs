@@ -16,10 +16,12 @@ namespace BibliotecaWinForms
         TransaccionesDatoSolicitante ds;
         TransaccionesPrestamosFisicos pf;
         string id;
+        string url;
         public PrestamoFisico()
         {
             InitializeComponent();
             id = string.Empty;
+            url = string.Empty;
             ds = new TransaccionesDatoSolicitante();
             pf = new TransaccionesPrestamosFisicos();
          
@@ -71,6 +73,8 @@ namespace BibliotecaWinForms
 
         //}
 
+        //llamamos a que aparezca el form para agregar datos
+
         private void rjButton2_Click(object sender, EventArgs e)
         {
 
@@ -79,7 +83,8 @@ namespace BibliotecaWinForms
             dl.Show();
             this.Hide();
         }
-
+        //en este metodo actualizamos el estatus del libro
+        // a falso ya que es el que se esta prestando
         private void btnAceptarLibro_Click(object sender, EventArgs e)
         {
             id = lblID.Text;
@@ -109,6 +114,8 @@ namespace BibliotecaWinForms
             }
         }
 
+        //aqui almacenamos todos los datos del prestamos fisico, tanto el libro como
+        // de la persona que lo esta solicitando
         private void btnRegistrarPres_Click(object sender, EventArgs e)
         {
             try
@@ -152,5 +159,12 @@ namespace BibliotecaWinForms
 
         }
 
+        private void pbEnvios_Click(object sender, EventArgs e)
+        {
+            Envios env = new Envios();
+            env.StartPosition = FormStartPosition.CenterScreen;
+            env.Show();
+            this.Hide();
+        }
     }
 }

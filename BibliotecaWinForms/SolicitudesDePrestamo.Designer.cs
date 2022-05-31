@@ -73,6 +73,7 @@
             this.pbEnvios.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pbEnvios.TabIndex = 2;
             this.pbEnvios.TabStop = false;
+            this.pbEnvios.Click += new System.EventHandler(this.pbEnvios_Click);
             // 
             // pbSolicitudes
             // 

@@ -64,6 +64,7 @@
             this.pbPrestamoPrecencial.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pbPrestamoPrecencial.TabIndex = 3;
             this.pbPrestamoPrecencial.TabStop = false;
+            this.pbPrestamoPrecencial.Click += new System.EventHandler(this.pbPrestamoPrecencial_Click);
             // 
             // pbEnvios
             // 
@@ -74,6 +75,7 @@
             this.pbEnvios.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pbEnvios.TabIndex = 2;
             this.pbEnvios.TabStop = false;
+            this.pbEnvios.Click += new System.EventHandler(this.pbEnvios_Click);
             // 
             // pbSolicitudes
             // 
@@ -84,6 +86,7 @@
             this.pbSolicitudes.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pbSolicitudes.TabIndex = 1;
             this.pbSolicitudes.TabStop = false;
+            this.pbSolicitudes.Click += new System.EventHandler(this.pbSolicitudes_Click);
             // 
             // pbMenu
             // 
@@ -94,6 +97,7 @@
             this.pbMenu.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pbMenu.TabIndex = 0;
             this.pbMenu.TabStop = false;
+            this.pbMenu.Click += new System.EventHandler(this.pbMenu_Click);
             // 
             // label1
             // 
@@ -107,11 +111,11 @@
             // 
             // flowLayoutPanel1
             // 
-            this.flowLayoutPanel1.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.flowLayoutPanel1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(59, 38);
+            this.flowLayoutPanel1.AutoScroll = true;
+            this.flowLayoutPanel1.BackColor = System.Drawing.Color.White;
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(55, 38);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(729, 400);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(741, 400);
             this.flowLayoutPanel1.TabIndex = 7;
             // 
             // pictureBox1
@@ -128,6 +132,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.flowLayoutPanel1);
